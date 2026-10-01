@@ -1,0 +1,5 @@
+assets/imagens/hero-placeholder.svg
+assets/imagens/Não pare.Você é inspiração para muito mais gente do que imagina. 🌱💚A sua constância abre camin.jpg
+assets/imagens/sobre-placeholder.svg
+assets/logo/Falcom gym logo.jpg
+assets/logo/logo.svg

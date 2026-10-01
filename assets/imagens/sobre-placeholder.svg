@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1120" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder da foto da academia  substituir por uma imagem real em assets/imagens/">
+  <rect width="900" height="1120" fill="#121212"/>
+  <rect x="0" y="0" width="8" height="1120" fill="#F5C400"/>
+  <text x="450" y="540" text-anchor="middle" fill="#F5C400" font-family="Arial, sans-serif" font-size="22" letter-spacing="4">PLACEHOLDER</text>
+  <text x="450" y="580" text-anchor="middle" fill="#888" font-family="Arial, sans-serif" font-size="16">Foto da Falcon Gym</text>
+  <text x="450" y="610" text-anchor="middle" fill="#666" font-family="Arial, sans-serif" font-size="14">assets/imagens/sobre.jpg</text>
+</svg>
